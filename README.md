@@ -1,7 +1,7 @@
 # mybybitapi
-[![Go 1.19.0](https://img.shields.io/badge/Go-1.19.0-brightgreen.svg)](https://github.com/Hongssd/mybybitapi)
-[![Contributor Victor](https://img.shields.io/badge/contributor-Victor-blue.svg)](https://github.com/Hongssd/mybybitapi)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Hongssd/mybybitapi/blob/master/LICENSE)
+[![Go 1.19.0](https://img.shields.io/badge/Go-1.19.0-brightgreen.svg)](https://github.com/zhangsk2024/zsk_bybit)
+[![Contributor Victor](https://img.shields.io/badge/contributor-Victor-blue.svg)](https://github.com/zhangsk2024/zsk_bybit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/zhangsk2024/zsk_bybit/blob/master/LICENSE)
 
 # Table of Contents
 - [Require](#Require)
@@ -22,7 +22,7 @@ require (
 ```
 # Installation
 ```shell
-go get github.com/Hongssd/mybybitapi
+go get github.com/zhangsk2024/zsk_bybit
 ```
 
 

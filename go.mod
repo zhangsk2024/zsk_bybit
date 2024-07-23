@@ -1,4 +1,4 @@
-module github.com/Hongssd/mybybitapi
+module github.com/zhangsk2024/zsk_bybit
 
 go 1.19
 

@@ -46,7 +46,7 @@ type AssetTransferInterTransferRes struct {
 type AssetTransferQueryAccountCoinsBalanceRes struct {
 	AccountType string `json:"accountType"`
 	MemberId    string `json:"memberId"`
-	Balance     struct {
+	Balance     []struct {
 		Coin            string `json:"coin"`
 		WalletBalance   string `json:"walletBalance"`
 		TransferBalance string `json:"transferBalance"`
